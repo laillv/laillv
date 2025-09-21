@@ -4,7 +4,7 @@
 ---
 
 🎓 I'm currently pursuing a degree in **Computer Engineering** at Unijorge, based in **Salvador, Bahia, Brazil**.  
-🔧 I'm passionate about **hands-on projects**, **front-end development**, and everything that involves **creating with creativity** — from electronics to design.  
+🔧 I'm passionate about **hands-on projects**, **front-end development**, and everything that involves **creating with creativity**, from electronics to design.  
 🚀 I'm always eager to learn, explore new technologies, and turn ideas into real-world applications.  
 
 ---
